@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://victria-reviews.github.io/Spartamax-Male-Enhancement-Reviews-2026/sitemap.xml
